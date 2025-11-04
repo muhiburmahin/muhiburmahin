@@ -14,17 +14,11 @@ I continuously learn emerging technologies and love contributing to open-source 
 ✨ I believe — “Code is not just for work, it’s an art.”
 
 🔧 Skills:
-
 JavaScript (ES6+), TypeScript
-
 React.js, Next.js
-
 Node.js, Express.js
-
 MongoDB, Mongoose
-
 Git, GitHub, REST API, JSON
-
 HTML5, CSS3, Tailwind CSS, Bootstrap
 
 ## 🌐 Socials:
