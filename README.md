@@ -1,13 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:4C1D95&height=260&section=header&text=Md.%20Muhibur%20Rahman%20Mahin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20CSE%20Student&descAlignY=58&descSize=18" />
-
-  <br/>
-
-  <!--- Typing SVG Section --->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+🚀;MERN+%7C+Next.js+%7C+TypeScript;Building+Scalable+Applications;Competitive+Programming+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="benner.jpg" alt="Mahin's Banner" width="100%">
 </div>
-
-<br/>
 
 ---
 
