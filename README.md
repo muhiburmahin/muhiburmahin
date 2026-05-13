@@ -1,9 +1,17 @@
 <div align="center">
-  <img src="benner.jpg" alt="Mahin's Banner" width="100%">
+  <!-- Banner with Cache Buster -->
+  <img src="https://raw.githubusercontent.com/muhiburmahin/muhiburmahin/main/benner.jpg?v=1" alt="Md Muhibur Rahman Mahin Banner" width="100%">
+
+  <br/><br/>
+
+  <!-- Title -->
+  <h1>Hi 👋, I'm Md. Muhibur Rahman Mahin</h1>
+  
+  <!-- Typing SVG with New ID -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+🚀;MERN+%7C+Next.js+%7C+TypeScript;Building+Scalable+Applications;Competitive+Programming+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
-
 <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ## 👨‍💻 About Me
 
