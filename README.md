@@ -29,18 +29,31 @@
 
 <br/><br/>
 
-# 🌐 Connect With Me
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mdmahin.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhiburmahin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muhiburmahin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/muhiburrmahin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/muhiburmahin)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/8801566086621)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:developermdmahin@gmail.com)
-
+<div>
+  <p align="left">
+    <!-- LinkedIn -->
+    <a href="https://linkedin.com/in/muhiburmahin" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <!-- Facebook -->
+    <a href="https://facebook.com/muhiburrmahin" target="_blank">
+      <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" width="40" />
+    </a>
+    <!-- Instagram -->
+    <a href="https://instagram.com/muhiburmahin" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
+    </a>
+    <!-- WhatsApp -->
+    <a href="https://wa.me/8801566086621" target="_blank">
+      <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" height="30" width="40" />
+    </a>
+    <!-- Portfolio -->
+    <a href="https://mdmahin.vercel.app" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="30" width="40" />
+    </a>
+  </p>
 </div>
 
 ---
