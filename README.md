@@ -114,43 +114,30 @@ const mahin = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhiburmahin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhiburmahin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" />
-
-<br/><br/>
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=muhiburmahin&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhiburmahin&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhiburmahin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
 </div>
 
 ---
 
-# 🎓 Education
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-```yaml
-🎓 B.Sc. in Computer Science & Engineering
-🏫 Metropolitan University, Sylhet
-📅 2024 - Present
-📚 Focus Areas:
-   • Software Engineering
-   • Database Systems
-   • Microprocessor Architecture
-   • Web Technologies
+### GitHub Contributions Snake:
+![Snake animation](https://github.com/muhiburmahin/muhiburmahin/blob/output/github-contribution-grid-snake.svg)
 
-📘 Higher Secondary Certificate (HSC)
-🏫 Sylhet Science & Technology College
-📅 2022 - 2023
 
-📗 Secondary School Certificate (SSC)
-🏫 Thana Sadar High School, Companiganj, Sylhet
-📅 2019 - 2021
-```
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhiburmahin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhiburmahin&theme=tokyonight&hide_border=true&layout=compact" /></a> |
+| ------------- | ------------- |
+
+### Repository Stats & Streak:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhiburmahin&repo=Planora_frontend&theme=tokyonight" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=muhiburmahin&theme=tokyonight" /></a> |
+| ------------- | ------------- |
+<br/>
+
+<!--- random quote --->
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+
+---
 
 ---
 
