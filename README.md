@@ -35,29 +35,29 @@
   <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/muhiburmahin" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <!-- Facebook -->
     <a href="https://facebook.com/muhiburrmahin" target="_blank">
-      <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     <!-- Instagram -->
     <a href="https://instagram.com/muhiburmahin" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <!-- WhatsApp -->
     <a href="https://wa.me/8801566086621" target="_blank">
-      <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" height="30" width="40" />
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <!-- Portfolio -->
     <a href="https://mdmahin.vercel.app" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
 
----
-# 🛠️ Technology Stack
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
