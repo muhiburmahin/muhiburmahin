@@ -1,29 +1,27 @@
 <div align="center">
-  <!-- Banner with Cache Buster -->
+  <!-- Banner Section -->
   <img src="https://raw.githubusercontent.com/muhiburmahin/muhiburmahin/main/benner.jpg?v=1" alt="Md Muhibur Rahman Mahin Banner" width="100%">
 
-  <br/><br/>
+  <br/>
 
-  <!-- Title -->
-  <h1>Hi 👋, I'm Md. Muhibur Rahman Mahin</h1>
-  
-  <!-- Typing SVG with New ID -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+🚀;MERN+%7C+Next.js+%7C+TypeScript;Building+Scalable+Applications;Competitive+Programming+Enthusiast" alt="Typing SVG" />
+  <!-- Title Section -->
+  <h1 style="margin-bottom: 10px; border-bottom: none;">Hi 👋, I'm Md. Muhibur Rahman Mahin</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Problem+Solver;I'm+a+TypeScript+%26+Next.js+Specialist;I'm+a+Node,+Express+%26+PostgreSQL+Expert" alt="Typing SVG" />
 </div>
 
----
+<br/>
 <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ## 👨‍💻 About Me
 
-- 👋 Hi, I’m **[Md Muhibur Rahman Mahin](https://github.com/muhiburmahin)**
-- 🎓 I’m a **B.Sc. in CSE** student at **Metropolitan University**
-- 🖥️ I’m currently working on **Next.js, React, and TypeScript** for modern frontend development
-- 🗄️ Using **Node.js, Prisma ORM, and PostgreSQL/MongoDB** for robust backend systems
-- 🛠️ I’m currently learning **Go (Golang), Docker, and System Design**
-- 💬 Ask me about **MERN Stack, Next.js, or Competitive Programming**
-- 🌐 Explore My Portfolio **[Md Mahin](https://mdmahin.vercel.app)**
-- 📫 Feel free to reach me out **[Email](mailto:developermdmahin@gmail.com)**
-
+- 👋 Hi, I’m **[Md Muhibur Rahman Mahin](https://github.com/muhiburmahin)**, a passionate **Full-Stack Web Developer**.
+- 🎓 I’m a **B.Sc. in CSE** student at **Metropolitan University**.
+- 🖥️ Currently specializing in **Next.js, React, and TypeScript** for building industry-standard applications.
+- 🗄️ Backend expertise includes **Node.js, Prisma ORM, and PostgreSQL**.
+- 🚀 Working on **Planora**, a full-stack event management system with advanced dashboard analytics.
+- 🛠️ Currently expanding my knowledge in **Go (Golang), Docker, and System Design**.
+- 💬 Ask me about **Full Stack Development, Next.js, or Competitive Programming** (Codeforces).
+- 🌐 Explore My Portfolio: **[@mdmahin](https://mdmahin.vercel.app)**
+- 📫 Feel free to reach me at: **[developermdmahin@gmail.com](mailto:developermdmahin@gmail.com)**
 <br/>
 <br/>
 
@@ -156,17 +154,6 @@
 * 🌍 Contributing more to open source
 * 🧠 Improving system design & problem-solving skills
 
----
-
-# ✨ Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
-
----
 
 <div align="center">
 
