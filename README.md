@@ -12,10 +12,9 @@
 ---
 
 <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 👨‍💻 About Me
 
-- 👋 Hi, I’m **[@muhiburmahin](https://github.com/muhiburmahin)**
+- 👋 Hi, I’m **[Md Muhibur Rahman Mahin](https://github.com/muhiburmahin)**
 - 🎓 I’m a **B.Sc. in CSE** student at **Metropolitan University**
 - 🖥️ I’m currently working on **Next.js, React, and TypeScript** for modern frontend development
 - 🗄️ Using **Node.js, Prisma ORM, and PostgreSQL/MongoDB** for robust backend systems
