@@ -1,50 +1,35 @@
-# <div align="center">⚡ Md. Muhibur Rahman Mahin ⚡</div>
-
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:4C1D95&height=260&section=header&text=Md.%20Muhibur%20Rahman%20Mahin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20CSE%20Student&descAlignY=58&descSize=18" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0F172A,50:1E1B4B,75:312E81,100:4C1D95&height=260&section=header&text=Md.%20Muhibur%20Rahman%20Mahin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20CSE%20Student&descAlignY=58&descSize=18" />
+  <br/>
 
+  <!--- Typing SVG Section --->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+🚀;MERN+%7C+Next.js+%7C+TypeScript;Building+Scalable+Applications;Competitive+Programming+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 👨‍💻 About Me
+
+- 👋 Hi, I’m **[@muhiburmahin](https://github.com/muhiburmahin)**
+- 🎓 I’m a **B.Sc. in CSE** student at **Metropolitan University**
+- 🖥️ I’m currently working on **Next.js, React, and TypeScript** for modern frontend development
+- 🗄️ Using **Node.js, Prisma ORM, and PostgreSQL/MongoDB** for robust backend systems
+- 🛠️ I’m currently learning **Go (Golang), Docker, and System Design**
+- 💬 Ask me about **MERN Stack, Next.js, or Competitive Programming**
+- 🌐 Explore My Portfolio **[Md Mahin](https://mdmahin.vercel.app)**
+- 📫 Feel free to reach me out **[Email](mailto:developermdmahin@gmail.com)**
+
+<br/>
 <br/>
 
 <img width="100%" src="https://camo.githubusercontent.com/85f0cec7ba1784236ec4e689d83da747f301dbdf058ffe6587f77ca45e992723/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" />
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+🚀;MERN+%7C+MEAN+%7C+Next.js+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor+🌟;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<br/><br/>
-
-[![](https://visitcount.itsvg.in/api?id=muhiburmahin\&icon=6\&color=12)](https://visitcount.itsvg.in)
-[![GitHub followers](https://img.shields.io/github/followers/muhiburmahin?style=for-the-badge\&logo=github\&color=7C3AED)](https://github.com/muhiburmahin)
-[![GitHub Stars](https://img.shields.io/github/stars/muhiburmahin?style=for-the-badge\&logo=github\&color=9333EA)](https://github.com/muhiburmahin)
-
-</div>
-
----
-
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-## 👨‍💻 About Me
- 
-```typescript
-const mahin = {
-  name     : "Md. Muhibur Rahman Mahin",
-  role     : "Full Stack Developer & Problem Solver",
-  location : "Sylhet, Bangladesh 🇧🇩",
-  edu      : "B.Sc. CSE @ Metropolitan University",
- 
-  stack    : ["Next.js", "React", "TypeScript",
-              "Node.js", "PostgreSQL", "MongoDB"],
- 
-  learning : ["Go (Golang)", "Docker", "System Design"],
- 
-  available: true, // Open to work & collaborate!
- 
-  quote    : "Code is not just for work — it's an art ✨"
-};
-```
- 
-
----
 
 # 🌐 Connect With Me
 
@@ -61,47 +46,57 @@ const mahin = {
 </div>
 
 ---
-
 # 🛠️ Technology Stack
 
 <div align="center">
 
-## 💻 Languages
+## 💻 Languages & Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java" alt="Languages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python,c,cpp" />
-
-<br/><br/>
+<br/>
 
 ## 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap" alt="Frontend" />
+</p>
+<p>
+  <em>Building responsive, type-safe UIs with <b>Next.js</b> and <b>Modern CSS frameworks</b>.</em>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
+<br/>
 
-<br/><br/>
+## ⚙️ Backend Development & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql,mysql" alt="Backend & DB" />
+</p>
+<p>
+  <em>Focusing on <b>Schema Design</b>, <b>RESTful APIs</b>, and <b>Relational Database</b> management.</em>
+</p>
 
-## ⚙️ Backend Development
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,firebase,postman" />
+## 🚀 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify" alt="DevOps" />
+</p>
 
-<br/><br/>
+<br/>
 
-## 🗄️ Database & ORM
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,supabase" />
-
-<br/><br/>
-
-## 🚀 DevOps & Deployment
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,cloudflare" />
-
-<br/><br/>
-
-## 🎯 Design & Tools
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode" />
+## 🎯 Design & Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode" alt="Tools" />
+</p>
 
 </div>
 
+---
+
+### 💡 Core Expertise
+*   **TypaScript & Next.js Stack**: Specialized in building scalable applications with **Nade.js**, **Express**, **React**, and **Node.js**.
+*   **Database Management**: Expertly managing data using **PostgreSQL** and **Prisma ORM** for high-performance backends.
+*   **Hardware Integration**: Experienced in developing automatic systems using **Arduino** and microcontrollers.
 ---
 
 # 📊 GitHub Statistics & Analysis
