@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Section -->
-  <img src="https://raw.githubusercontent.com/muhiburmahin/muhiburmahin/main/benner.jpg?v=1" alt="Md Muhibur Rahman Mahin Banner" width="100%">
+  <img src = "https://raw.githubusercontent.com/muhiburmahin/muhiburmahin/main/benner.jpg?v=1" alt="Md Muhibur Rahman Mahin Banner" width="100%">
 
   <br/>
 
@@ -35,7 +35,7 @@
   <p align="left">
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/muhiburmahin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <!-- Facebook -->
     <a href="https://facebook.com/muhiburrmahin" target="_blank">
