@@ -39,7 +39,7 @@
     </a>
     <!-- Facebook -->
     <a href="https://facebook.com/muhiburrmahin" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
     <!-- Instagram -->
     <a href="https://instagram.com/muhiburmahin" target="_blank">
