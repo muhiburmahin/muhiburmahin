@@ -5,7 +5,7 @@
   <br/>
 
   <!-- Title Section -->
-  <h1 style="margin-bottom: 10px; border-bottom: none;">Hi 👋, I'm Md. Muhibur Rahman Mahin</h1>
+  <h1 style="margin-bottom: 10px; border-bottom: none;">Hi 👋, I'm Md. Muhibur Rahman Mahin</h1 >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Problem+Solver;I'm+a+TypeScript+%26+Next.js+Specialist;I'm+a+Node,+Express+%26+PostgreSQL+Expert" alt="Typing SVG" />
 </div>
 
